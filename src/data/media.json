@@ -1,0 +1,123 @@
+[
+  {
+    "id": "tech-talk",
+    "type": "video",
+    "title": "Career in Tech — Getting Started",
+    "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "category": "motivation",
+    "userTypes": ["student", "graduate"],
+    "thumbnail": "🎥",
+    "description": "Learn how to start your journey in technology careers"
+  },
+  {
+    "id": "nurse-podcast",
+    "type": "podcast",
+    "title": "Life of a Nurse",
+    "url": "https://example.com/podcast.mp3",
+    "category": "job-roles",
+    "userTypes": ["graduate", "professional"],
+    "thumbnail": "🎧",
+    "description": "Real stories from nursing professionals"
+  },
+  {
+    "id": "engineering-careers",
+    "type": "video",
+    "title": "Engineering Career Paths Explained",
+    "url": "https://www.youtube.com/embed/example1",
+    "category": "job-roles",
+    "userTypes": ["student", "graduate"],
+    "thumbnail": "⚙️",
+    "description": "Explore different engineering disciplines and career opportunities"
+  },
+  {
+    "id": "business-success",
+    "type": "podcast",
+    "title": "From Student to Business Leader",
+    "url": "https://example.com/business-podcast.mp3",
+    "category": "motivation",
+    "userTypes": ["student", "graduate", "professional"],
+    "thumbnail": "📈",
+    "description": "Success stories from business professionals"
+  },
+  {
+    "id": "healthcare-insights",
+    "type": "video",
+    "title": "Healthcare Careers: Beyond Medicine",
+    "url": "https://www.youtube.com/embed/example2",
+    "category": "job-roles",
+    "userTypes": ["student", "graduate"],
+    "thumbnail": "🏥",
+    "description": "Discover diverse career opportunities in healthcare"
+  },
+  {
+    "id": "arts-creativity",
+    "type": "podcast",
+    "title": "Making a Living Through Art",
+    "url": "https://example.com/arts-podcast.mp3",
+    "category": "motivation",
+    "userTypes": ["student", "graduate"],
+    "thumbnail": "🎨",
+    "description": "How to build a successful career in the arts"
+  },
+  {
+    "id": "interview-tips",
+    "type": "video",
+    "title": "Mastering Job Interviews",
+    "url": "https://www.youtube.com/embed/example3",
+    "category": "internships",
+    "userTypes": ["graduate", "professional"],
+    "thumbnail": "💼",
+    "description": "Expert tips for acing your next job interview"
+  },
+  {
+    "id": "study-abroad",
+    "type": "podcast",
+    "title": "Study Abroad Success Stories",
+    "url": "https://example.com/study-abroad.mp3",
+    "category": "motivation",
+    "userTypes": ["student", "graduate"],
+    "thumbnail": "✈️",
+    "description": "Students share their international education experiences"
+  },
+  {
+    "id": "startup-journey",
+    "type": "video",
+    "title": "Building Your Own Startup",
+    "url": "https://www.youtube.com/embed/example4",
+    "category": "motivation",
+    "userTypes": ["graduate", "professional"],
+    "thumbnail": "🚀",
+    "description": "Entrepreneurship insights from successful founders"
+  },
+  {
+    "id": "resume-workshop",
+    "type": "video",
+    "title": "Resume Writing Workshop",
+    "url": "https://www.youtube.com/embed/example5",
+    "category": "internships",
+    "userTypes": ["graduate", "professional"],
+    "thumbnail": "📝",
+    "description": "Learn to create compelling resumes that get noticed"
+  },
+  {
+    "id": "career-change",
+    "type": "podcast",
+    "title": "Changing Careers Successfully",
+    "url": "https://example.com/career-change.mp3",
+    "category": "motivation",
+    "userTypes": ["professional"],
+    "thumbnail": "🔄",
+    "description": "Stories of professionals who successfully changed careers"
+  },
+  {
+    "id": "networking-skills",
+    "type": "video",
+    "title": "Professional Networking Strategies",
+    "url": "https://www.youtube.com/embed/example6",
+    "category": "internships",
+    "userTypes": ["student", "graduate", "professional"],
+    "thumbnail": "🤝",
+    "description": "Build meaningful professional relationships"
+  }
+]
+

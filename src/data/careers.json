@@ -1,0 +1,223 @@
+[
+  {
+    "id": "software-engineer",
+    "title": "Software Engineer",
+    "industry": "Technology",
+    "description": "Designs, builds, and maintains software systems and applications.",
+    "skills": ["Programming", "Problem Solving", "Algorithms", "System Design"],
+    "education": "BSc in Computer Science or related field",
+    "salaryRange": "$60k - $140k",
+    "level": ["UG", "PG"],
+    "image": "💻"
+  },
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "industry": "Business",
+    "description": "Analyzes data to inform business decisions and strategies.",
+    "skills": ["SQL", "Excel", "Visualization", "Statistics"],
+    "education": "BSc in Statistics, Business, or related",
+    "salaryRange": "$50k - $100k",
+    "level": ["UG", "PG"],
+    "image": "📊"
+  },
+  {
+    "id": "nurse",
+    "title": "Registered Nurse",
+    "industry": "Healthcare",
+    "description": "Provides patient care and supports medical teams in healthcare settings.",
+    "skills": ["Clinical", "Empathy", "Communication", "Medical Knowledge"],
+    "education": "Nursing degree and license",
+    "salaryRange": "$55k - $110k",
+    "level": ["UG"],
+    "image": "🏥"
+  },
+  {
+    "id": "doctor",
+    "title": "Doctor",
+    "industry": "Healthcare",
+    "description": "Diagnoses and treats medical conditions, provides patient care.",
+    "skills": ["Medical Knowledge", "Diagnosis", "Patient Care", "Communication"],
+    "education": "Medical degree (MD/MBBS) and residency",
+    "salaryRange": "$120k - $300k+",
+    "level": ["PG"],
+    "image": "👨‍⚕️"
+  },
+  {
+    "id": "web-developer",
+    "title": "Web Developer",
+    "industry": "Technology",
+    "description": "Creates and maintains websites and web applications.",
+    "skills": ["HTML/CSS", "JavaScript", "React", "Node.js"],
+    "education": "BSc in Computer Science or bootcamp",
+    "salaryRange": "$45k - $120k",
+    "level": ["UG"],
+    "image": "🌐"
+  },
+  {
+    "id": "marketing-manager",
+    "title": "Marketing Manager",
+    "industry": "Business",
+    "description": "Develops and executes marketing strategies to promote products/services.",
+    "skills": ["Digital Marketing", "Analytics", "Communication", "Strategy"],
+    "education": "BSc in Marketing, Business, or related",
+    "salaryRange": "$55k - $130k",
+    "level": ["UG", "PG"],
+    "image": "📈"
+  },
+  {
+    "id": "mechanical-engineer",
+    "title": "Mechanical Engineer",
+    "industry": "Engineering",
+    "description": "Designs and develops mechanical systems and machinery.",
+    "skills": ["CAD", "Physics", "Mathematics", "Problem Solving"],
+    "education": "BSc in Mechanical Engineering",
+    "salaryRange": "$60k - $120k",
+    "level": ["UG", "PG"],
+    "image": "⚙️"
+  },
+  {
+    "id": "graphic-designer",
+    "title": "Graphic Designer",
+    "industry": "Arts",
+    "description": "Creates visual concepts and designs for various media.",
+    "skills": ["Adobe Creative Suite", "Typography", "Color Theory", "Creativity"],
+    "education": "BFA in Graphic Design or related",
+    "salaryRange": "$35k - $80k",
+    "level": ["UG"],
+    "image": "🎨"
+  },
+  {
+    "id": "cybersecurity-specialist",
+    "title": "Cybersecurity Specialist",
+    "industry": "Technology",
+    "description": "Protects computer systems and networks from cyber threats.",
+    "skills": ["Network Security", "Ethical Hacking", "Risk Assessment", "Incident Response"],
+    "education": "BSc in Cybersecurity or Computer Science",
+    "salaryRange": "$70k - $150k",
+    "level": ["UG", "PG"],
+    "image": "🔒"
+  },
+  {
+    "id": "business-analyst",
+    "title": "Business Analyst",
+    "industry": "Business",
+    "description": "Analyzes business processes and recommends improvements.",
+    "skills": ["Data Analysis", "Process Improvement", "Communication", "Problem Solving"],
+    "education": "BSc in Business, Economics, or related",
+    "salaryRange": "$50k - $110k",
+    "level": ["UG", "PG"],
+    "image": "📋"
+  },
+  {
+    "id": "civil-engineer",
+    "title": "Civil Engineer",
+    "industry": "Engineering",
+    "description": "Designs and supervises construction of infrastructure projects.",
+    "skills": ["Structural Design", "Project Management", "CAD", "Mathematics"],
+    "education": "BSc in Civil Engineering",
+    "salaryRange": "$55k - $115k",
+    "level": ["UG", "PG"],
+    "image": "🏗️"
+  },
+  {
+    "id": "pharmacist",
+    "title": "Pharmacist",
+    "industry": "Healthcare",
+    "description": "Dispenses medications and provides pharmaceutical care.",
+    "skills": ["Pharmacy Knowledge", "Patient Counseling", "Attention to Detail", "Communication"],
+    "education": "PharmD degree and license",
+    "salaryRange": "$80k - $140k",
+    "level": ["PG"],
+    "image": "💊"
+  },
+  {
+    "id": "ai-ml-engineer",
+    "title": "AI/ML Engineer",
+    "industry": "Technology",
+    "description": "Develops artificial intelligence and machine learning solutions.",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "Statistics"],
+    "education": "BSc/MSc in Computer Science, AI, or related",
+    "salaryRange": "$80k - $180k",
+    "level": ["UG", "PG"],
+    "image": "🤖"
+  },
+  {
+    "id": "financial-advisor",
+    "title": "Financial Advisor",
+    "industry": "Business",
+    "description": "Provides financial planning and investment advice to clients.",
+    "skills": ["Financial Planning", "Investment Analysis", "Communication", "Sales"],
+    "education": "BSc in Finance, Economics, or related + certifications",
+    "salaryRange": "$45k - $120k",
+    "level": ["UG", "PG"],
+    "image": "💰"
+  },
+  {
+    "id": "electrical-engineer",
+    "title": "Electrical Engineer",
+    "industry": "Engineering",
+    "description": "Designs and develops electrical systems and equipment.",
+    "skills": ["Circuit Design", "Power Systems", "Electronics", "Mathematics"],
+    "education": "BSc in Electrical Engineering",
+    "salaryRange": "$60k - $125k",
+    "level": ["UG", "PG"],
+    "image": "⚡"
+  },
+  {
+    "id": "photographer",
+    "title": "Photographer",
+    "industry": "Arts",
+    "description": "Captures and creates visual images for various purposes.",
+    "skills": ["Photography", "Photo Editing", "Creativity", "Technical Skills"],
+    "education": "BFA in Photography or self-taught",
+    "salaryRange": "$30k - $80k",
+    "level": ["UG"],
+    "image": "📸"
+  },
+  {
+    "id": "project-manager",
+    "title": "Project Manager",
+    "industry": "Business",
+    "description": "Plans and oversees projects from start to finish.",
+    "skills": ["Project Planning", "Team Management", "Communication", "Risk Management"],
+    "education": "BSc in Business, Engineering, or related + PMP certification",
+    "salaryRange": "$60k - $130k",
+    "level": ["UG", "PG"],
+    "image": "📅"
+  },
+  {
+    "id": "environmental-engineer",
+    "title": "Environmental Engineer",
+    "industry": "Engineering",
+    "description": "Develops solutions to environmental problems and sustainability.",
+    "skills": ["Environmental Science", "Sustainability", "Problem Solving", "Regulations"],
+    "education": "BSc in Environmental Engineering or related",
+    "salaryRange": "$55k - $110k",
+    "level": ["UG", "PG"],
+    "image": "🌱"
+  },
+  {
+    "id": "animator",
+    "title": "Animator",
+    "industry": "Arts",
+    "description": "Creates animated content for films, games, and digital media.",
+    "skills": ["Animation Software", "Storytelling", "Creativity", "Technical Skills"],
+    "education": "BFA in Animation or related",
+    "salaryRange": "$40k - $90k",
+    "level": ["UG"],
+    "image": "🎬"
+  },
+  {
+    "id": "physical-therapist",
+    "title": "Physical Therapist",
+    "industry": "Healthcare",
+    "description": "Helps patients recover from injuries and improve mobility.",
+    "skills": ["Anatomy", "Rehabilitation", "Communication", "Empathy"],
+    "education": "Doctor of Physical Therapy (DPT) degree",
+    "salaryRange": "$70k - $120k",
+    "level": ["PG"],
+    "image": "🏃‍♂️"
+  }
+]
+

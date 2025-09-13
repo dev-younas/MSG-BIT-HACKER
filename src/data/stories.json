@@ -1,0 +1,99 @@
+[
+  {
+    "id": "ayesha-software",
+    "name": "Ayesha Khan",
+    "domain": "engineering",
+    "photo": "👩‍💻",
+    "summary": "From student coder to software engineer at a tech startup. Started learning programming in high school and now leads a team of 5 developers.",
+    "journey": "Self-taught programmer → Computer Science degree → Junior Developer → Senior Software Engineer"
+  },
+  {
+    "id": "rahul-nurse",
+    "name": "Rahul Sharma",
+    "domain": "medicine",
+    "photo": "👨‍⚕️",
+    "summary": "Pursued nursing to serve the community. Now works in emergency care and mentors new nursing students.",
+    "journey": "Science student → Nursing degree → ICU Nurse → Emergency Care Specialist"
+  },
+  {
+    "id": "priya-artist",
+    "name": "Priya Patel",
+    "domain": "arts",
+    "photo": "🎨",
+    "summary": "Graphic designer who started her own creative agency. Now works with major brands and has a team of 8 designers.",
+    "journey": "Art student → Freelance designer → Creative agency founder → Brand consultant"
+  },
+  {
+    "id": "michael-engineer",
+    "name": "Michael Chen",
+    "domain": "engineering",
+    "photo": "👨‍🔬",
+    "summary": "Mechanical engineer who invented a sustainable energy solution. Now runs his own green technology company.",
+    "journey": "Engineering student → R&D Engineer → Patent holder → Entrepreneur"
+  },
+  {
+    "id": "sarah-doctor",
+    "name": "Dr. Sarah Johnson",
+    "domain": "medicine",
+    "photo": "👩‍⚕️",
+    "summary": "Pediatrician who opened a free clinic in underserved areas. Has treated over 10,000 children and inspired many to pursue medicine.",
+    "journey": "Pre-med student → Medical school → Residency → Community health advocate"
+  },
+  {
+    "id": "david-business",
+    "name": "David Rodriguez",
+    "domain": "business",
+    "photo": "👨‍💼",
+    "summary": "Marketing manager who became CEO of a Fortune 500 company. Started as an intern and worked his way up through dedication and innovation.",
+    "journey": "Business student → Marketing intern → Brand manager → CEO"
+  },
+  {
+    "id": "lisa-photographer",
+    "name": "Lisa Thompson",
+    "domain": "arts",
+    "photo": "📸",
+    "summary": "Photographer who captured award-winning images for National Geographic. Started with a simple camera and passion for storytelling.",
+    "journey": "Art student → Wedding photographer → Travel photographer → Award-winning photojournalist"
+  },
+  {
+    "id": "ahmed-cybersecurity",
+    "name": "Ahmed Hassan",
+    "domain": "engineering",
+    "photo": "🔒",
+    "summary": "Cybersecurity expert who protects major corporations from cyber threats. Started as a curious teenager hacking for fun, now saves companies millions.",
+    "journey": "Computer enthusiast → Ethical hacker → Security analyst → Chief Security Officer"
+  },
+  {
+    "id": "emma-therapist",
+    "name": "Emma Wilson",
+    "domain": "medicine",
+    "photo": "🧠",
+    "summary": "Physical therapist who specializes in sports rehabilitation. Helped Olympic athletes recover from injuries and return to peak performance.",
+    "journey": "Kinesiology student → Physical therapy school → Sports clinic → Olympic team therapist"
+  },
+  {
+    "id": "carlos-architect",
+    "name": "Carlos Mendez",
+    "domain": "engineering",
+    "photo": "🏗️",
+    "summary": "Architect who designed sustainable buildings that won international awards. His eco-friendly designs are now used as models worldwide.",
+    "journey": "Architecture student → Junior architect → Project lead → Award-winning sustainable architect"
+  },
+  {
+    "id": "jessica-entrepreneur",
+    "name": "Jessica Park",
+    "domain": "business",
+    "photo": "🚀",
+    "summary": "Tech entrepreneur who founded a successful app company. Started coding in college and now employs 50+ people in her growing startup.",
+    "journey": "Computer science student → App developer → Startup founder → Tech CEO"
+  },
+  {
+    "id": "robert-teacher",
+    "name": "Robert Kim",
+    "domain": "education",
+    "photo": "👨‍🏫",
+    "summary": "High school teacher who became a principal and education reformer. His innovative teaching methods have improved graduation rates by 40%.",
+    "journey": "Education student → High school teacher → Department head → School principal"
+  }
+]
+

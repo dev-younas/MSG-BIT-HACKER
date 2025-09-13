@@ -1,0 +1,103 @@
+{
+  "interests": ["Technology", "Healthcare", "Business", "Arts", "Engineering"],
+  "questions": {
+    "Technology": [
+      {
+        "q": "You enjoy solving logical problems and puzzles.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      },
+      {
+        "q": "You like building things on a computer or mobile device.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      },
+      {
+        "q": "You are fascinated by how websites and apps work.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      },
+      {
+        "q": "You enjoy learning new programming languages or tools.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      },
+      {
+        "q": "You like working with data and finding patterns.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      },
+      {
+        "q": "You are comfortable spending long hours in front of a computer.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      },
+      {
+        "q": "You enjoy troubleshooting technical issues.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      },
+      {
+        "q": "You are interested in artificial intelligence and machine learning.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      },
+      {
+        "q": "You like working in teams on technical projects.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      },
+      {
+        "q": "You are curious about cybersecurity and protecting digital systems.",
+        "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]
+      }
+    ],
+    "Healthcare": [
+      {"q": "You like caring for people and helping them feel better.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are comfortable in clinical environments like hospitals.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You have a strong stomach and can handle medical procedures.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You enjoy learning about human anatomy and physiology.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You can work well under pressure and in emergency situations.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You have excellent communication skills for patient interaction.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are interested in medical research and new treatments.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You can work long shifts and irregular hours.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You have attention to detail for accurate medical records.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You want to make a difference in people's lives through healthcare.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]}
+    ],
+    "Business": [
+      {"q": "You enjoy analyzing markets and business trends.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You like presenting ideas and leading discussions.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are good at networking and building relationships.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You enjoy working with numbers and financial data.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You like coming up with creative solutions to business problems.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are comfortable with sales and customer service.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You enjoy managing projects and coordinating teams.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are interested in entrepreneurship and starting your own business.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You like working in fast-paced, competitive environments.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You enjoy learning about different industries and business models.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]}
+    ],
+    "Arts": [
+      {"q": "You enjoy expressing yourself through creative mediums.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You have a strong appreciation for visual aesthetics and design.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You like working with your hands to create things.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You enjoy storytelling and communicating through art.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are interested in cultural and historical contexts of art.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You like experimenting with different materials and techniques.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You enjoy collaborating with other creative professionals.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are comfortable with criticism and feedback on your work.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You like working on projects that have emotional impact.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are interested in using technology to enhance artistic expression.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]}
+    ],
+    "Engineering": [
+      {"q": "You enjoy solving complex technical problems.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You like designing and building physical systems or structures.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are good at mathematics and physics.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You enjoy working with tools and machinery.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You like learning about how things work mechanically.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are interested in sustainable and environmentally friendly solutions.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You enjoy working on large-scale projects with teams.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You like using computer-aided design (CAD) software.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You are interested in innovation and developing new technologies.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]},
+      {"q": "You enjoy seeing your designs come to life in the real world.", "options": ["Strongly Agree", "Agree", "Neutral", "Disagree"]}
+    ]
+  },
+  "recommendations": {
+    "Technology": ["Software Engineer", "Data Analyst", "Cybersecurity Specialist", "Web Developer", "AI/ML Engineer"],
+    "Healthcare": ["Registered Nurse", "Doctor", "Physical Therapist", "Pharmacist", "Medical Technician"],
+    "Business": ["Business Analyst", "Marketing Manager", "Financial Advisor", "Project Manager", "Entrepreneur"],
+    "Arts": ["Graphic Designer", "Artist", "Photographer", "Animator", "Art Director"],
+    "Engineering": ["Mechanical Engineer", "Civil Engineer", "Electrical Engineer", "Environmental Engineer", "Aerospace Engineer"]
+  }
+}
+

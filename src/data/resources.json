@@ -1,0 +1,37 @@
+{
+  "Articles": [
+    {"title": "Choosing a Career Path", "link": "https://example.com/articles/career-path", "desc": "Comprehensive guide to selecting your field based on interests and skills.", "icon": "📖"},
+    {"title": "STEM Career Opportunities", "link": "https://example.com/articles/stem-careers", "desc": "Explore science, technology, engineering, and mathematics career paths.", "icon": "🔬"},
+    {"title": "Healthcare Career Guide", "link": "https://example.com/articles/healthcare-guide", "desc": "Detailed overview of various healthcare professions and requirements.", "icon": "🏥"},
+    {"title": "Business and Finance Careers", "link": "https://example.com/articles/business-careers", "desc": "Learn about opportunities in business, finance, and entrepreneurship.", "icon": "💼"},
+    {"title": "Creative Arts Careers", "link": "https://example.com/articles/arts-careers", "desc": "Discover careers in design, media, and creative industries.", "icon": "🎨"},
+    {"title": "Study Abroad Guide", "link": "https://example.com/articles/study-abroad", "desc": "Everything you need to know about international education.", "icon": "✈️"}
+  ],
+  "eBooks": [
+    {"title": "Resume Templates Collection", "link": "https://example.com/ebooks/resume-templates.pdf", "desc": "Professional resume templates for different industries.", "icon": "📄"},
+    {"title": "Interview Success Guide", "link": "https://example.com/ebooks/interview-guide.pdf", "desc": "Complete guide to acing job interviews with sample questions.", "icon": "💬"},
+    {"title": "Career Planning Workbook", "link": "https://example.com/ebooks/career-workbook.pdf", "desc": "Interactive workbook to plan your career journey.", "icon": "📋"},
+    {"title": "Scholarship Application Guide", "link": "https://example.com/ebooks/scholarship-guide.pdf", "desc": "Step-by-step guide to finding and applying for scholarships.", "icon": "🎓"},
+    {"title": "Networking Strategies", "link": "https://example.com/ebooks/networking.pdf", "desc": "Build meaningful professional relationships and connections.", "icon": "🤝"},
+    {"title": "Entrepreneurship Handbook", "link": "https://example.com/ebooks/entrepreneurship.pdf", "desc": "Start your own business with this comprehensive guide.", "icon": "🚀"}
+  ],
+  "Checklists": [
+    {"title": "Interview Preparation Checklist", "link": "https://example.com/checklists/interview-prep", "desc": "Complete checklist to prepare for job interviews.", "icon": "✅"},
+    {"title": "College Application Checklist", "link": "https://example.com/checklists/college-app", "desc": "Everything you need for college applications.", "icon": "📝"},
+    {"title": "Study Abroad Preparation", "link": "https://example.com/checklists/study-abroad", "desc": "Pre-departure checklist for international students.", "icon": "🌍"},
+    {"title": "Career Change Checklist", "link": "https://example.com/checklists/career-change", "desc": "Steps to successfully transition to a new career.", "icon": "🔄"},
+    {"title": "Graduate School Application", "link": "https://example.com/checklists/grad-school", "desc": "Complete guide for graduate school applications.", "icon": "🎓"},
+    {"title": "Internship Search Checklist", "link": "https://example.com/checklists/internship", "desc": "Find and secure the perfect internship opportunity.", "icon": "💼"}
+  ],
+  "Webinars": [
+    {"title": "Study Abroad 101", "link": "https://example.com/webinars/study-abroad-101", "desc": "Recorded webinar covering study abroad basics and tips.", "icon": "🎥"},
+    {"title": "Career in Technology", "link": "https://example.com/webinars/tech-careers", "desc": "Explore various technology career paths and opportunities.", "icon": "💻"},
+    {"title": "Healthcare Career Panel", "link": "https://example.com/webinars/healthcare-panel", "desc": "Panel discussion with healthcare professionals.", "icon": "👩‍⚕️"},
+    {"title": "Business Leadership Skills", "link": "https://example.com/webinars/leadership", "desc": "Develop essential leadership skills for business success.", "icon": "👨‍💼"},
+    {"title": "Creative Portfolio Building", "link": "https://example.com/webinars/portfolio", "desc": "Learn to create compelling portfolios for creative careers.", "icon": "🎨"},
+    {"title": "Financial Planning for Students", "link": "https://example.com/webinars/financial-planning", "desc": "Manage finances during and after college.", "icon": "💰"},
+    {"title": "Engineering Career Paths", "link": "https://example.com/webinars/engineering", "desc": "Discover different engineering disciplines and specializations.", "icon": "⚙️"},
+    {"title": "Resume Writing Workshop", "link": "https://example.com/webinars/resume-workshop", "desc": "Interactive workshop on creating effective resumes.", "icon": "📝"}
+  ]
+}
+
